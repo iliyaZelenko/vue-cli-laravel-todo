@@ -1,4 +1,8 @@
-# Advanced Vue + Laravel TODO LIST
+# Vue CLI 3 + Laravel 5.6 TODO LIST
+
+
+<img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
+<img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
 
 ## Features
 - Vue cli 3 + Laravel 5.6 integration!
@@ -17,7 +21,8 @@
 
 1. `git clone https://github.com/iliyaZelenko/vue-cli-laravel-starter.git`
 2. `composer install` 
-3. `cd frontend` and `yarn` or `npm install`
+3. set db connection and run `php artisan migrate` and `php artisan db:seed`
+4. `cd frontend` and `yarn` or `npm install`
 
 ### To Work With the Laravel
 You can start server with `php artisan serve`
