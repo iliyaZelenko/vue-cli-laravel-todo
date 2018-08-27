@@ -1,10 +1,12 @@
 # Vue CLI 3 + Laravel 5.6 TODO LIST
 
 
-<img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
-<img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
+<img align="left" width="50%" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
+<img align="left" width="50%" height="200" src="https://i.imgur.com/vexNbzz.png">
+
 
 ## Features
+
 - Vue cli 3 + Laravel 5.6 integration!
 - Example todo app
 - Babel 7
