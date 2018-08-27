@@ -37,5 +37,5 @@ yarn build # OR npm run build
 After build you can see the production version through the laravel url.
 
 
-![Imgur](https://i.imgur.com/XKjvySZl.png)
-![Imgur](https://i.imgur.com/vexNbzzl.png)
+![Imgur](https://i.imgur.com/XKjvySZ.png)
+![Imgur](https://i.imgur.com/vexNbzz.png)
