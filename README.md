@@ -1,12 +1,6 @@
 # Vue CLI 3 + Laravel 5.6 TODO LIST
 
-
-<img align="left" width="50%" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
-<img align="left" width="50%" height="200" src="https://i.imgur.com/vexNbzz.png">
-
-
 ## Features
-
 - Vue cli 3 + Laravel 5.6 integration!
 - Example todo app
 - Babel 7
@@ -17,6 +11,7 @@
 - [vue-plugin-axios](https://github.com/iliyaZelenko/vue-plugin-axios)
 - [Laravel Cors package](https://github.com/barryvdh/laravel-cors)
 - Tests with jest + cypress
+
 
 
 ### Installation
@@ -45,7 +40,8 @@ yarn build # OR npm run build
 
 After build you can see the production version through the laravel url.
 
-
+<img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
+<img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
 
 
 
