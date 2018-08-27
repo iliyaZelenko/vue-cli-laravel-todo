@@ -1,4 +1,5 @@
-# Vue CLI 3 + Laravel 5.6 TODO LIST
+<img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
+<img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
 
 ## Features
 - Vue cli 3 + Laravel 5.6 integration!
@@ -39,9 +40,5 @@ yarn build # OR npm run build
 ```
 
 After build you can see the production version through the laravel url.
-
-<img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
-<img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
-
 
 
