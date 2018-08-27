@@ -3,6 +3,8 @@
     <img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
 </p>
 
+<p>
+    
 ## Features
 - Vue cli 3 + Laravel 5.6 integration!
 - Example todo app
@@ -15,6 +17,7 @@
 - [Laravel Cors package](https://github.com/barryvdh/laravel-cors)
 - Tests with jest + cypress
 
+</p>
 
 
 ### Installation
