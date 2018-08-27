@@ -1,6 +1,3 @@
-![Imgur](https://i.imgur.com/XKjvySZl.png)
-![Imgur](https://i.imgur.com/vexNbzzl.png)
-    
 ## Features
 - Vue cli 3 + Laravel 5.6 integration!
 - Example todo app
@@ -40,3 +37,5 @@ yarn build # OR npm run build
 After build you can see the production version through the laravel url.
 
 
+![Imgur](https://i.imgur.com/XKjvySZl.png)
+![Imgur](https://i.imgur.com/vexNbzzl.png)
