@@ -1,5 +1,7 @@
-<img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
-<img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
+<p align="center">
+    <img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
+    <img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
+</p>
 
 ## Features
 - Vue cli 3 + Laravel 5.6 integration!
