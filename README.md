@@ -1,9 +1,5 @@
-<p align="center">
-    <img align="left" width="415" height="200" src="https://i.imgur.com/XKjvySZ.png"> 
-    <img align="right" width="415" height="200" src="https://i.imgur.com/vexNbzz.png">
-</p>
-
-<p>
+![Imgur](https://i.imgur.com/XKjvySZl.png)
+![Imgur](https://i.imgur.com/vexNbzzl.png)
     
 ## Features
 - Vue cli 3 + Laravel 5.6 integration!
@@ -16,9 +12,6 @@
 - [vue-plugin-axios](https://github.com/iliyaZelenko/vue-plugin-axios)
 - [Laravel Cors package](https://github.com/barryvdh/laravel-cors)
 - Tests with jest + cypress
-
-</p>
-
 
 ### Installation
 
