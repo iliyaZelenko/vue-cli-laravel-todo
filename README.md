@@ -1,4 +1,7 @@
 ## Features
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/iliyaZelenko/vue-cli-laravel-todo.svg)](https://greenkeeper.io/)
+
 - Vue cli 3 + Laravel 5.6 integration!
 - Example todo app
 - Babel 7
